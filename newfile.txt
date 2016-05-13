@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 22C1-DD93
+
+ Directory of C:\gitproj\newdevops
+
+13-05-2016  15:20    <DIR>          .
+13-05-2016  15:20    <DIR>          ..
+13-05-2016  14:29               516 a.txt
+13-05-2016  14:29                22 filetoday
+13-05-2016  14:29                20 newdo1
+13-05-2016  15:20                 0 newfile.txt
+13-05-2016  14:29                19 newfiledo
+13-05-2016  14:29                11 README.md
+               6 File(s)            588 bytes
+               2 Dir(s)  35,569,872,896 bytes free
